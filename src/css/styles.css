@@ -1,0 +1,40 @@
+
+#qwertyText{
+	style: black;
+	background-color: lightgreen;
+	width: 50%;
+	min-height: 89vh;
+	float: left;
+	font-size: 20px;
+	font-family: "Comic Sans MS";
+}
+
+#dvorakText{
+	style: black;
+	background-color: powderblue;
+	width: 50%;
+	min-height: 89vh;
+	float: right;
+	font-size: 20px;
+	font-family: "Comic Sans MS";
+}
+
+#qTitle{
+	background-color: orange;
+	border-color: black;
+	border-width: 10px;
+	text-align: center;
+	width: 50%;
+	float: left;
+}
+#dTitle{
+	background-color: orange;
+	border-color: black;
+	border-width: 10px;
+	text-align: center;
+	width: 50%;
+	float: right;
+}
+
+
+
